@@ -1,2 +1,2 @@
 # PortfolioProjects
-This Repository will hold all of the code and queries from the Portfolio Projects by James Mathitha.
+This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
